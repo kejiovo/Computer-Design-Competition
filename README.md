@@ -1,2 +1,2 @@
 # Computer-Design-Competition
-存放我计算机设计大赛的资料文件
+这里存放我计算机设计大赛的资料文件
